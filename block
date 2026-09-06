@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Script.lua"))()
